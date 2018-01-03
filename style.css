@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  color: #00356b;
+  margin-top: 50px;
+}
+
+h2 {
+  margin-bottom: 1em;
+}
+
+#courseName {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 40px;
+}
